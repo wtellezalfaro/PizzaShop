@@ -6,5 +6,10 @@ The Solutions has two projects
 	This project also has an Entity Framework generated code which we use in the model
 	
 
-- Pizza Shop Client
-	this is a windows service app that runs as a client of the restful services
+- Pizza Shop Client is a windows service app that runs as a client of the restful services
+
+Data is stored in a  SQL Server DataBase
+
+The soluction could be bigger, but for excersise purposes we leave as it 
+
+We are using additional libraries like NewtonSoft and Microsoft.AspNet.WebApi.Client Package
