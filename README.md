@@ -13,3 +13,9 @@ Data is stored in a  SQL Server DataBase
 The soluction could be bigger, but for excersise purposes we leave as it 
 
 We are using additional libraries like NewtonSoft and Microsoft.AspNet.WebApi.Client Package
+
+Assumptions
+
+We are using product table to sotre either pizza products and other products like spaguety, saladas, etc. (The Type column describes this type of product)
+
+ProuctSubType column stores the differente types of pizza (Hawaian, Veggie, etc) 
